@@ -1,4 +1,4 @@
-# BBL (Basketball Badminton Legends) - Complete Project Specification
+# BBL (Basketball Badminton Legends)
 
 ## Project Overview
 
