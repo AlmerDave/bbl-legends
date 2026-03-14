@@ -245,7 +245,6 @@ export default function HomeScreen() {
               #1a1418 88%,
               #141218 100%
             );
-          min-height: 100vh;
         }
 
         .court-bg::before {
@@ -326,7 +325,7 @@ export default function HomeScreen() {
           display: flex;
           flex-direction: column;
           gap: 14px;
-          padding: 10px 16px 16px;
+          padding: 10px 16px 96px;
         }
 
         .sport-card {

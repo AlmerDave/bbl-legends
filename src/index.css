@@ -34,7 +34,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  min-height: max(884px, 100dvh);
+  min-height: 100dvh;
   background-color: #f8f6f6;
   color: #0f172a;
 }

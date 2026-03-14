@@ -81,7 +81,6 @@ export default function RanksScreen() {
               #1a0e08 0%, #1f1108 18%, #231410 35%,
               #1c1210 55%, #16100e 72%, #1a1418 88%, #141218 100%
             );
-          min-height: 100vh;
         }
         .lb-bg::before {
           content: '';
@@ -281,7 +280,7 @@ export default function RanksScreen() {
           position: relative; z-index: 1;
           display: flex; flex-direction: column;
           align-items: center; justify-content: center;
-          padding: 60px 16px; gap: 14px;
+          padding: 60px 16px 100px; gap: 14px;
         }
         .spinner {
           width: 36px; height: 36px; border-radius: 50%;
