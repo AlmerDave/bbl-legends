@@ -12,6 +12,7 @@ export default defineConfig({
       registerType: 'autoUpdate',       // auto-updates SW in background
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'masked-icon.svg'],
       manifest: {
+        id: '/bbl-legends/',
         name: 'Basketball Badminton Legends',
         short_name: 'BBL',
         description: 'Basketball Badminton Legends',
